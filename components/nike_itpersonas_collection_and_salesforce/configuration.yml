@@ -5,5 +5,7 @@ description: 'This Yeager Workflow component is responsible for collecting data 
   platform.
 
   '
+input-class: NikeITPersonasCollectionAndSalesforceIn
 name: NikeITPersonasCollectionAndSalesforce
+output-class: NikeITPersonasCollectionAndSalesforceOut
 parameters: {}
